@@ -1,0 +1,37 @@
+# Bağımlılıklar
+node_modules/
+
+# Build
+dist/
+
+# Ortam değişkenleri (GİZLİ)
+.env
+.env.local
+.env.*.local
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# Yüklenen dosyalar
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Log
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/

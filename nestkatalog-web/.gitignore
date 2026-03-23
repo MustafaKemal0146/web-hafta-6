@@ -1,0 +1,31 @@
+# Bağımlılıklar
+node_modules/
+/.pnp
+.pnp.js
+
+# Build
+/.next/
+/out/
+
+# Ortam değişkenleri (GİZLİ)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
