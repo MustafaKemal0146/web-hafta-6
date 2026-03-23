@@ -3,6 +3,8 @@
 > **Web Tabanlı Programlama — Hafta 6 Lab**
 > Profesyonel Full-Stack Mimari: NestJS + Next.js + Prisma + PostgreSQL
 
+> 🤖 Bu proje **[Claude Code](https://claude.ai/claude-code)** (Anthropic) ile birlikte geliştirilmiştir.
+
 ---
 
 ## 📋 İçindekiler
@@ -222,3 +224,29 @@ Tests: 6 passed, 6 total
 - [Prisma Dokümantasyon](https://www.prisma.io/docs)
 - [NestJS + Prisma Rehber](https://www.prisma.io/docs/guides/nestjs)
 - [NestJS Swagger Entegrasyonu](https://docs.nestjs.com/openapi/introduction)
+
+---
+
+## 👥 Katkıda Bulunanlar
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MustafaKemal0146">
+        <img src="https://github.com/MustafaKemal0146.png" width="80px" alt="MustafaKemal0146"/><br/>
+        <b>Mustafa Kemal</b><br/>
+        <sub>Geliştirici</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://claude.ai/claude-code">
+        <img src="https://avatars.githubusercontent.com/u/132554157?s=80" width="80px" alt="Claude"/><br/>
+        <b>Claude Sonnet 4.6</b><br/>
+        <sub>AI Pair Programmer</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 🤖 Projenin tamamı **[Claude Code](https://claude.ai/claude-code)** ile pair programming yapılarak geliştirilmiştir.
+> Backend mimarisi, frontend tasarımı, tüm NestJS özellikleri ve testler Claude Sonnet 4.6 tarafından yazılmıştır.
